@@ -1,0 +1,8 @@
+util\Cards.class
+base\BaseMethods.class
+base\FailedRequestFilter.class
+util\Boards.class
+test\Tests.class
+base\BaseApi.class
+util\Lists.class
+base\ConfigReader.class
